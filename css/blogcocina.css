@@ -1,0 +1,110 @@
+.foto{
+
+  background: url(../imagenes/cocina.jpg);
+    background-position: 500, 1500;
+    background-repeat: no-repeat;
+    opacity:0.8;
+}
+
+
+
+
+
+.contenedor{
+	background:rgba(255, 255, 255, 0.5);
+}
+
+
+
+.color-44{
+	background:#f9fec2;
+}
+
+.texto{ 
+color:orange;
+font-size: 20px;
+text-align: center;
+font-weight: bolder;
+background: white;
+border:2px solid #f9fec2;
+}
+
+hr{
+	border:2px solid #f9fec2;
+}
+
+.color-4{
+	margin-left: 35px;
+}
+
+.padding{
+	padding-top: 25px;
+}
+
+.raya{
+      padding-right: 50px;
+     padding-top: 10px;
+}
+
+.color-8{
+	background:#9CCC65;
+	margin-left: 20px;
+
+}
+
+
+.espaciado{padding:10px;
+}
+
+.vacio{
+	height:133px;
+	
+}
+
+
+.espaciado2{padding:20px;
+}
+
+
+.titulo{
+	color:white;
+	font-weight: bolder;
+}
+
+.nombre{
+	font-size:36px;
+	color:white;
+	font-weight: bolder;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+
+.linea{
+	font-size:25px;
+	color:white;
+	font-weight: bolder;
+}
+
+
+
+
+
+
+
+@media(max-width: 770px){
+
+
+
+
+
+
+
+
+.color-8{
+	background:#9CCC65;
+	margin-left: 0px;
+
+}
+
+	}
